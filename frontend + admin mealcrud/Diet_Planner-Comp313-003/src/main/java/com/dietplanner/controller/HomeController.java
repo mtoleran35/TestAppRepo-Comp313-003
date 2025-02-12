@@ -10,4 +10,6 @@ public class HomeController {
     public String home() {
         return "index"; // Loads index.html from src/main/resources/templates/
     }
+    
+   
 }
